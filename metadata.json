@@ -1,0 +1,5 @@
+{
+  "name": "Loan Business Manager",
+  "description": "A role-based loan management system handling workflows between initiators, delivery personnel, and managers.",
+  "requestFramePermissions": []
+}
