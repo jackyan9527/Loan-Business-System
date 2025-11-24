@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // 使用相对路径 './'，这样无论你的 GitHub 仓库叫什么名字，资源都能正确加载
-  base: './', 
+  base: '/Loan-Business-System/',
   build: {
     outDir: 'dist',
   }
